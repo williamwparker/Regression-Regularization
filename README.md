@@ -2,6 +2,8 @@
 
 Regularization is a means to reduce overfitting, reducing the degrees of freedom of the model in order to reduce the variance in the model and thereby increasing its ability to generalize.
 
+This model takes a childhood respiration dataset to illustrate various techniques in regression for regularization.
+
 Lasso implements L1 norm regularization. Lasso takes the absolute value of the weights as a penalty for the loss function.
 
 Ridge implements L2 norm regularization Ridge takes a square of the weights as a penalty for the loss function.
